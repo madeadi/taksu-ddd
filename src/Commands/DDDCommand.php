@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Taksu\DDD\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class DDDCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'ddd';
 
     public $description = 'My command';
 
